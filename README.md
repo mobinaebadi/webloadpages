@@ -1,1 +1,2 @@
 # webloadpages
+blu bank loadpage
